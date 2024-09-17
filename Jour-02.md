@@ -38,5 +38,5 @@
 * [+] Découverte des raccourcis clavier Linux : 
   * [+] Navigateur (fenêtres, onglets, navigation, etc …)
   * [+] Terminal (fenêtres, onglets, commandes)
-  * [ ] Découverte et installation de Albert (Linux) / Alfred (Mac)
+  * [+] Découverte et installation de Albert (Linux) / Alfred (Mac)
 
