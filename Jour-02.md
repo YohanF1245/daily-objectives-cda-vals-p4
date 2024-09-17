@@ -16,7 +16,7 @@
   * [+] Installation (Discord)
   * [+] Installation navigateur (Developper Edition)
   * [+] Création et configuration Mail pro 
-  * [ ] Création et configuration Twitter pro 
+  * [dead] Création et configuration Twitter pro 
 
 * [+] Découverte de Linux :
   * [+] Savoir ce qu'est Linux
