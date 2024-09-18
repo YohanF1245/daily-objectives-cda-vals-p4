@@ -8,7 +8,7 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 
 #### Git
 
-- [ ] Création de compte + configuration Github
+- [+] Création de compte + configuration Github
 - [+] Installation et configuration de Git
 - [+] Comprendre le versionning
 - [+] Comprendre le fonctionnement de Git
@@ -23,20 +23,20 @@ Seulement si le wargame bandit est au niveau 5 minimum :
     - [+] git clone
     - [+] git remote
 - [ ] Faire le parcours Git-it pour les débutants (Nodeschool.io)
-- [ ] Faire ses premiers commits sur les daily objectives
-- [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
-- [ ] Faire ses première manipulations de versionning en CLI only (init, push, add, commit, status, pull)
+- [+] Faire ses premiers commits sur les daily objectives
+- [+] Faire ses premiers pushs des daily-objectives sur son compte Github
+- [+] Faire ses première manipulations de versionning en CLI only (init, push, add, commit, status, pull)
 
-* [ ] Comprendre les termes "local", "origin" et "upstream"
-* [ ] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
-* [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
-* [ ] Découvrir les conventions de nommage de son versionning avec la convention Angular :
-  - [ ] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
-  - [ ] https://www.conventionalcommits.org/fr/v1.0.0/
-  - [ ] Renommer son dernier commit en respectant cette convention
-* [ ] Comprendre le fonctionnement des branches dans Git :
-  - [ ] Lister, changer, créer, supprimer des branches
-  - [ ] Quelle est la différence entre `Git switch` et `Git checkout`
+* [+] Comprendre les termes "local", "origin" et "upstream"
+* [+] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
+* [+] Faire ses premiers pushs des daily-objectives sur son compte Github
+* [+] Découvrir les conventions de nommage de son versionning avec la convention Angular :
+  - [+] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
+  - [+] https://www.convent+ionalcommits.org/fr/v1.0.0/
+  - [+] Renommer son dernier commit en respectant cette convention
+* [+] Comprendre le fonctionnement des branches dans Git :
+  - [+] Lister, changer, créer, supprimer des branches
+  - [+] Quelle est la différence entre `Git switch` et `Git checkout`
 * [ ] Comprendre le merge dans Git
   - [ ] Comprendre le "fast forward"
   - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
@@ -44,10 +44,10 @@ Seulement si le wargame bandit est au niveau 5 minimum :
 #### Github
 
 - [ ] Pimper son profile Github (belle du village)
-- [ ] Configurer un tunnel SSH entre son local et son Github
-- [ ] Découvrir l'interface de Github :
-  - [ ] Pull Requests
-  - [ ] Branches
+- [+] Configurer un tunnel SSH entre son local et son Github
+- [+] Découvrir l'interface de Github :
+  - [+] Pull Requests
+  - [+] Branches
   - [ ] Issues
   - [ ] Settings projet
   - [ ] Settings profile
