@@ -2,22 +2,22 @@
 
 ### Jeudi 19/09/2024 :
 
-- [+] Finaliser les dailys précédents
+- [x] Finaliser les dailys précédents
 - [?] Commencer à réfléchir à son projet Fil rouge
 
 #### Github + Gitflow
 
-- [ ] Découverte de Github CLI `gh`
+- [x] Découverte de Github CLI `gh`
 
-  - [ ] Créer son premier repo Github (local + origin)
+  - [x] Créer son premier repo Github (local + origin)
 
-- [ ] Découverte de Gitflow
+- [x] Découverte de Gitflow
 
 ### Markdown :
 
-- [ ] Comprendre l'intérêt du Markdown
+- [x] Comprendre l'intérêt du Markdown
       Rendre lisible le texte sur github via de la mise en page.
-- [ ] Découvrir les balises de bases :
+- [x] Découvrir les balises de bases :
   - [x] Titres
         - On utlisera le symbole \# pour declarer un titre. le nombre de \# joue sur la "profondeur du titre"
   - [x] Images
@@ -33,7 +33,7 @@
         - on peut creer des listes non triées avec les symboles  - * +, ou des nombres pour des listes triées.
         Possibilité de creer des listes imbriquées soit avec la touche tab pour les editeurs qui le permettent , soit en 
         ajoutant un nombre d'espace manuellement
-  - [ ] Formatage de texte (italique, souligné, gras)
+  - [x] Formatage de texte (italique, souligné, gras)
     * \*\* \*\* ou \-\- \-\- texte en **gras**
     * \* \* ou \_ \_ texte en *italique*
     * \~\~ \~\~ ~texte ~barrré~
@@ -41,10 +41,13 @@
     *  \*\*\* \*\*\* ***tout en gras et italique***
     * \<sub> \<\sub> <sub>indice</sub>
     * \<sup> \<\sup> <sup>exposant</sup>
-        
-  - [ ] Code
-  - [ ] Citations
-  - [ ] Tableaux
-  - [ ] Liens
+  - [x] Code
+    * pour citer du code, le placer entre deux triple backstick ``` ceci est du code```
+  - [x] Citations
+    * citation de texte avec : \>
+  - [x] Tableaux
+  - [x] Liens
+      * Pour creer un lien inline on place le texte entre crochets\[\] et l'url du lien entre parenthèses \(\)
+      * example: pour voir un exemple de tableux voir \[ ce lien \]\(https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github#ajout-dun-tableau\)
 - [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
 - [ ] Rédaction en Markdown du lexique de la promo ainsi que des cheat sheets (Terminal, Git, Github CLI, Gitflow), travail en groupe en respectant les bests practices et conventions par pull-request uniquement (2 reviews minimums avant merge)
