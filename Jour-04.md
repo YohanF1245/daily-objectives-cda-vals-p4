@@ -34,6 +34,13 @@
         Possibilité de creer des listes imbriquées soit avec la touche tab pour les editeurs qui le permettent , soit en 
         ajoutant un nombre d'espace manuellement
   - [ ] Formatage de texte (italique, souligné, gras)
+    * \*\* \*\* ou \-\- \-\- texte en **gras**
+    * \* \* ou \_ \_ texte en *italique*
+    * \~\~ \~\~ ~texte ~barrré~
+    * \*\* \*\* et \_ \_  **gras et _italique_ imbriqués**
+    *  \*\*\* \*\*\* ***tout en gras et italique***
+    * \<sub> \<\sub> <sub>indice</sub>
+    * \<sup> \<\sup> <sup>exposant</sup>
         
   - [ ] Code
   - [ ] Citations
