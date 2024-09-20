@@ -17,16 +17,16 @@
       La différence avec le merge est que le merge créé un nouveau commit qui réuni les deux branches
       et préserve l'historique des deux branches.
 - [x] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
-- [ ] Comprendre l'utilité et le fonctionnement de `git stash`
-      -permet de stocker les modifications non commit si l'on doit changer de branche. 
-      1. Mettre les modifications de côté :
-      ```git stash```
-      2. Basculer sur une autre branche, faire vos changements et les commiter :
-      ```git checkout autre_branche ```
-      ```git commit -m "Correction du bug"```
-      3. Revenir sur votre branche de travail et récupérer vos modifications :
-      ```git checkout ma_branche```
-      ```git stash pop```
+- [x] Comprendre l'utilité et le fonctionnement de `git stash`
+      -permet de stocker les modifications non commit si l'on doit changer de branche. \
+      1. Mettre les modifications de côté :\
+      ```git stash```\
+      2. Basculer sur une autre branche, faire vos changements et les commiter :\
+      ```git checkout autre_branche ```\
+      ```git commit -m "Correction du bug"```\
+      3. Revenir sur votre branche de travail et récupérer vos modifications :\
+      ```git checkout ma_branche```\
+      ```git stash pop```\
 - [ ] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
 - [ ] Découverte de LazyGit
   - [ ] Installation et configuration
