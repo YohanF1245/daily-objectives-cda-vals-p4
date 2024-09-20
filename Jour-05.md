@@ -6,8 +6,16 @@
 
 ### Git
 
-- [ ] Comprendre le principe de "Pull Request"
-- [ ] Comprendre le rebase dans Git (quelle différence avec le merge ?)
+- [x] Comprendre le principe de "Pull Request"
+    * Le pull request est un principe qui va au *delà de la demande de fusion de code*. Il permet de 
+      1. d'avoir une relecture par ses pairs du code proposé
+      2. de discuter de potentielles améliorations du code
+      3. détécter s'il comporte des erreurs
+- [x] Comprendre le rebase dans Git (quelle différence avec le merge ?)
+      Le rebase va réunir deux branches, en recopiant les commit d'une branche sur la branche principale.
+      L'interet est de garder un historique des commits propre et linéaire
+      La différence avec le merge est que le merge créé un nouveau commit qui réuni les deux branches
+      et préserve l'historique des deux branches.
 - [ ] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
 - [ ] Comprendre l'utilité et le fonctionnement de `git stash`
 - [ ] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
