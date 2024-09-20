@@ -35,8 +35,11 @@
 - [x] `.gitignore` global ou pas ?
     *Les deux en fait. Pour comprendre les differences:\
       1. **<ins>Local</ins>** .gitignore : spécifique à un projet, versionné, partagé entre tous les contributeurs.\
-      2. **<ins>Global</ins>** .gitignore : spécifique à l'utilisateur, s'applique à tous les dépôts sur une machine, non versionné.\
-- [ ] Comprendre quelle est la différence entre `git pull` et `git fetch`
+      2. **<ins>Global</ins>** .gitignore : spécifique à l'utilisateur, s'applique à tous les dépôts sur une machine, non versionné.
+- [x] Comprendre quelle est la différence entre `git pull` et `git fetch`\
+    La différence entre `git pull` et git `fetch` est que le pull fait plus de choses que le fetch.\
+    Un git fetch ne recupere que les commits et les objets git du dépot distant sans modifier le working directory. Il faut ensuite utiliser un rebase ou un merge pour avoir le depot completment "a jour"\
+    Un git pull fait le travaille de git fetch en l'additionnant avec un git merge
   - [ ] À quoi sert la commande `git fetch —prune`
   - [ ] Comment configurer mon git pour que ce soit fait automatiquement ?
 - [ ] Configurer son git :
