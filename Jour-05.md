@@ -28,11 +28,14 @@
       ```git checkout ma_branche```\
       ```git stash pop```\
 - [ ] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
-- [ ] Découverte de LazyGit
-  - [ ] Installation et configuration
-  - [ ] Intégration dans son editeur / workflow
-  - [ ] Faire le tour du propriétaire
+- [+] Découverte de LazyGit
+  - [+] Installation et configuration
+  - [+] Intégration dans son editeur / workflow
+  - [+] Faire le tour du propriétaire
 - [ ] `.gitignore` global ou pas ?
+    *Les deux en fait. Pour comprendre les differences:
+      1. **<ins>Local</ins>** .gitignore : spécifique à un projet, versionné, partagé entre tous les contributeurs.
+      2. **<ins>Global</ins>** .gitignore : spécifique à l'utilisateur, s'applique à tous les dépôts sur une machine, non versionné.
 - [ ] Comprendre quelle est la différence entre `git pull` et `git fetch`
   - [ ] À quoi sert la commande `git fetch —prune`
   - [ ] Comment configurer mon git pour que ce soit fait automatiquement ?
