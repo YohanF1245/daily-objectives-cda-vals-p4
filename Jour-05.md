@@ -40,9 +40,9 @@
     La différence entre `git pull` et git `fetch` est que le pull fait plus de choses que le fetch.\
     Un git fetch ne recupere que les commits et les objets git du dépot distant sans modifier le working directory. Il faut ensuite utiliser un rebase ou un merge pour avoir le depot completment "a jour"\
     Un git pull fait le travaille de git fetch en l'additionnant avec un git merge
-  - [ ] À quoi sert la commande `git fetch —prune`\
+  - [x] À quoi sert la commande `git fetch —prune`\
     Elle permet de nettoyer automatiquement les referenes aux branches supprimées sur le dépot distant.
-  - [ ] Comment configurer mon git pour que ce soit fait automatiquement ?\
+  - [x] Comment configurer mon git pour que ce soit fait automatiquement ?\
     Il suffit d'ajouter cette option de configuration dans git : \
     ```git config --global fetch.prune true```
 - [ ] Configurer son git :
