@@ -22,15 +22,11 @@
       1. Mettre les modifications de côté :
       ```git stash```
       2. Basculer sur une autre branche, faire vos changements et les commiter :
-      ```
-      git checkout autre_branche
-      git commit -m "Correction du bug"
-    ` ``
+      ```git checkout autre_branche ```
+      ```git commit -m "Correction du bug"```
       3. Revenir sur votre branche de travail et récupérer vos modifications :
-      ```
-git checkout ma_branche
-git stash pop
-  ```
+      ```git checkout ma_branche```
+      ```git stash pop```
 - [ ] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
 - [ ] Découverte de LazyGit
   - [ ] Installation et configuration
