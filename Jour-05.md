@@ -42,7 +42,7 @@
     Un git pull fait le travaille de git fetch en l'additionnant avec un git merge
   - [x] À quoi sert la commande `git fetch —prune`\
     Elle permet de nettoyer automatiquement les referenes aux branches supprimées sur le dépot distant.
-  - [x] Comment configurer mon git pour que ce soit fait automatiquement ?\
+  - [xgit] Comment configurer mon git pour que ce soit fait automatiquement ?\
     Il suffit d'ajouter cette option de configuration dans git : \
     ```git config --global fetch.prune true```
 - [ ] Configurer son git :
