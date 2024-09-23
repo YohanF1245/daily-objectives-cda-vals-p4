@@ -53,6 +53,5 @@
   - [ ] Comprendre la différence entre config locale, globale et système
 
 ### IA
-
 - [ ] Découvrir le prompt engineering sur ChatGPT (https://learnprompting.org/fr/)
 - [ ] Partager ses trucs et astuces sur l'utilisation des IAs
