@@ -9,8 +9,12 @@
 
 ### SCRUM
 
-- [ ] Savoir réaliser un daily meeting
-- [ ] Etudier les rapports SCRUM
+- [x] Savoir réaliser un daily meeting
+Les 15 premières minutes de la journée, les questions sont abordées :
+  * Qu'est ce que j'ai réalisé hier?
+  * Qu'est ce que je vais faire aujourd'hui?
+  * Quels sont les problèmes rencontrés?
+- [x] Etudier les rapports SCRUM
   - [x] Etudier la vélocité
       La vélocité est une **mesure** utilisée dans Scrum pour évaluer la **quantité de travail** terminée par une équipe pendant un sprint. Elle est calculée en additionnant les points d'histoires complétés dans un sprint. <br>
       #### Utilité
@@ -38,11 +42,33 @@
     ![image](/img/burndown-tutorial.png)
 
 **Visuel** : Ligne idéale décroissante + courbe réelle (pouvant diverger).
-  - [ ] Comprendre le tableau de la backlog
-- [ ] Etudier le rituel de la retrospective en détail
-  - [ ] Comprendre les Objectifs
-  - [ ] Voir les différents supports possibles
-  - [ ] Trouver les participants
+  - [x] Comprendre le tableau de la backlog
+    ![image](/img/tableau-backlog.png)
+    ![image](/img/backlog-2png)
+    ![image](/img/backlog-3.png)
+- [x] Etudier le rituel de la retrospective en détail
+  - [x] Comprendre les Objectifs
+    - 45 MINUTES par semaine de sprint
+    - **Amélioration continue** : Identifier ce qui fonctionne bien et ce qui doit être amélioré.
+    - **Apprentissage collectif** : Encourager le partage d'expériences et de points de vue.
+    - **Renforcement de l'équipe** : Favoriser la collaboration et la responsabilité collective.
+    - **Adaptabilité** : S'adapter rapidement aux changements et résoudre les problèmes.
+    - **Alignement** : Assurer la compréhension et le partage des objectifs communs.
+    - **Engagement et motivation** : Impliquer activement chaque membre dans l'amélioration continue.
+  - [x] Voir les différents supports possibles
+    - DAKI:
+    Tout le monde note des idées sur des post it
+
+       | Drop | Add     |
+       | ---- | ------- |
+       | Keep | Improve |
+
+    - KALM (keep add less more)
+
+    - Speed boat 
+    - ![image](/img/speed-boat.jpg)
+  - [x] Trouver les participants
+      - L'ensemble de l'équipe SCRUM - développeurs, Scrum master, et product owner sauf le client.
 - [ ] Etudier le rituel de la review
   - [ ] Objectifs
   - [ ] Participants

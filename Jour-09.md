@@ -8,6 +8,9 @@
 - [ ] Méthodologies traditionnelles
 - [ ] Agilité
   - [ ] Quels sont les grands principes ?
+    centré autour du glient.
+    FLEXIBILITE
+    ADAPTIBILITE
   - [ ] Découvrir les principales méthodes Agile
 - [ ] Découverte de la méthodologie SCRUM
   - [ ] Les rôles de chacun
@@ -21,4 +24,5 @@
   - [ ] Ce qu'est une User Story et comment la construit-on
   - [ ] Ce qu'est la backlog
   - [ ] Ce qu'est un sprint
-- [ ] Etudier en détail le Scrum Planning
+    periode de 2 a 4 semaine ou on developpe l'integralité des user story defini lors du sprint planning
+- [ ] Etudier en détail le Scrum Planning (sprint planning)
