@@ -2,7 +2,7 @@
 
 ### Vendredi 20/09/2024 :
 
-- [ ] Rattrapage de la semaine / Finalisation des daily objectives de la semaine / Travailler sur les notions mal comprises
+- [x] Rattrapage de la semaine / Finalisation des daily objectives de la semaine / Travailler sur les notions mal comprises
 
 ### Git
 
@@ -27,7 +27,7 @@
       3. Revenir sur votre branche de travail et récupérer vos modifications :\
       ```git checkout ma_branche```\
       ```git stash pop```\
-- [ ] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
+- [x] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
 - [x] Découverte de LazyGit
   - [x] Installation et configuration
   - [x] Intégration dans son editeur / workflow
@@ -45,13 +45,13 @@
   - [xgit] Comment configurer mon git pour que ce soit fait automatiquement ?\
     Il suffit d'ajouter cette option de configuration dans git : \
     ```git config --global fetch.prune true```
-- [ ] Configurer son git :
-  - [ ] Editeur
+- [x] Configurer son git :
+  - [x] Editeur
   - [ ] Différenciateur (par ex : Delta)\
       git diff
-  - [ ] Aliases
-  - [ ] Comprendre la différence entre config locale, globale et système
+  - [x] Aliases
+  - [x] Comprendre la différence entre config locale, globale et système
 
 ### IA
-- [ ] Découvrir le prompt engineering sur ChatGPT (https://learnprompting.org/fr/)
-- [ ] Partager ses trucs et astuces sur l'utilisation des IAs
+- [x] Découvrir le prompt engineering sur ChatGPT (https://learnprompting.org/fr/)
+- [x] Partager ses trucs et astuces sur l'utilisation des IAs
