@@ -37,6 +37,7 @@ A utiliser conjointement avec agec git log pour vérifier les changements apport
 - [x] Finir les dailys précédents
 - [x] Découverte de Github CLI (pour ceux qui ont travaillé sur autre chose la semaine précédente)
   - [x] Créer un cheat sheet sur Github CLI (individuel)
+  [Lien de la cheatsheet](https://yohanf1245.github.io/GH-CLI-CHEATSHEET/)
   - [x] Installation et connexion
   - [x] Faire le tour du propriétaire
   - [x] Intégration de `gh` dans son workflow

@@ -47,7 +47,7 @@
     ```git config --global fetch.prune true```
 - [x] Configurer son git :
   - [x] Editeur
-  - [ ] Différenciateur (par ex : Delta)\
+  - [x] Différenciateur (par ex : Delta)\
       git diff
   - [x] Aliases
   - [x] Comprendre la différence entre config locale, globale et système
