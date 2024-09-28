@@ -4,8 +4,8 @@
 
 ### Rattrapages
 
-- [ ] Revoir les méthodologies non comprises
-- [ ] Finir les dailys précédents
+- [x] Revoir les méthodologies non comprises
+- [x] Finir les dailys précédents
 
 ### SCRUM
 
