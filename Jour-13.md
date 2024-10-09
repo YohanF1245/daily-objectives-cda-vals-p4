@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Notes de la "Semaine la sécurité"
 
 ## Ressources
@@ -15,3 +16,11 @@
 | **Content Security Policy (CSP)** : Mettre en œuvre une politique CSP pour réduire les risques XSS et définir les sources de contenu autorisées. | **Absence de CSP** : Ne pas utiliser de CSP laisse des vulnérabilités exploitables par des attaques XSS. |
 | **Audit régulier** : Effectuer des audits de sécurité pour détecter les vulnérabilités. | **Absence d'audits** : Ne pas auditer régulièrement le système expose aux failles non détectées. |
 | **Gestion des erreurs contrôlée** : En production, masquer les détails techniques des erreurs aux utilisateurs pour éviter leur exploitation. | **Exposition d'erreurs techniques** : Fournir des messages d'erreur détaillés peut aider les attaquants à identifier des failles. |
+=======
+# Objectifs journaliers
+
+## Mercredi 02/10/2024 :
+
+- [ ] Travailler sur la stratégie de sécurisation d'une application web de formation en ligne (pire2pire.com)
+
+>>>>>>> 1eda4d8f141303ce4b94035212d57d7f2a779930
