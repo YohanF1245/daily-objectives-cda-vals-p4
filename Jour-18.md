@@ -12,7 +12,10 @@
   - [x] Découper les problématiques en problèmes
     - le coach doit rechercher dans une longue liste de nombs pour rappeler un apprenant  a l'ordre
     - le coach peut oublier de lancer le code de la signature
-  - [ ] Proposer une/des solutions théoriques à chaque problème
+  - [x] Proposer une/des solutions théoriques à chaque problème
+    - Un channel dédié dans le discord possede deux messages créé par le bot:
+      - un message avec autant de boutons que d'apprenants permet en 1 clic d'envoyer un message au apprenantrs concernés
+      - un message généré par le bot permet de faire un vote pour envoyer un message au coach d'envoyer la signature
 - [x] Analyser le contexte et les enjeux :
     - [x] Comprendre le secteur d'activité du client
       - formations dans le domaine du numérique
@@ -27,4 +30,4 @@
         - stratégiqe : gain de temps /optimisation
         - diminuer le manque a gagner
         operationel mettre en place /
-    - [ ] Évaluer les contraintes et opportunités du projet
+    - [x] Évaluer les contraintes et opportunités du projet
