@@ -4,8 +4,8 @@
 
 ### Rattrapages
 
-- [ ] Revoir les méthodologies non comprises
-- [ ] Finir les dailys précédents
+- [x] Revoir les méthodologies non comprises
+- [x] Finir les dailys précédents
 
 ### SCRUM
 
@@ -69,11 +69,19 @@ Les 15 premières minutes de la journée, les questions sont abordées :
     - ![image](/img/speed-boat.jpg)
   - [x] Trouver les participants
       - L'ensemble de l'équipe SCRUM - développeurs, Scrum master, et product owner sauf le client.
-- [ ] Etudier le rituel de la review
-  - [ ] Objectifs
-  - [ ] Participants
-  - [ ] Fonctionnement
-- [ ] Etude des outils
-  - [ ] GitHub Project
-  - [ ] Trello
+- [x] Etudier le rituel de la review
+  - [x] Objectifs
+  Determiner si la version n+1 du produit est conforme aux objectif définis dans le sprint planning
+  Valider si les objectifs ont été atteint
+  Ajuster la backlog en conséquence (besoins et priorités)
+  Présenter les travaux au client
+  - [x] Participants
+  L'équipe SCRUM et le client
+  - [x] Fonctionnement  
+    Durée: 1h par semaine de sprint
+    A la fin du sprint.
+    ![image](/img/rituels-scrum.png)
+- [x] Etude des outils
+  - [x] GitHub Project
+  - [x] Trello
   - [ ] Jira

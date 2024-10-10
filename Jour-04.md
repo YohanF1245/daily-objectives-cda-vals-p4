@@ -3,7 +3,7 @@
 ### Jeudi 19/09/2024 :
 
 - [x] Finaliser les dailys précédents
-- [?] Commencer à réfléchir à son projet Fil rouge
+- [x] Commencer à réfléchir à son projet Fil rouge
 
 #### Github + Gitflow
 
@@ -50,4 +50,4 @@
       * Pour creer un lien inline on place le texte entre crochets\[\] et l'url du lien entre parenthèses \(\)
       * example: pour voir un exemple de tableux voir \[ ce lien \]\(https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github#ajout-dun-tableau\)
 - [x] Faire le parcours "how-to-markdown" (Nodeschool.io)
-- [ ] Rédaction en Markdown du lexique de la promo ainsi que des cheat sheets (Terminal, Git, Github CLI, Gitflow), travail en groupe en respectant les bests practices et conventions par pull-request uniquement (2 reviews minimums avant merge)
+- [x] Rédaction en Markdown du lexique de la promo ainsi que des cheat sheets (Terminal, Git, Github CLI, Gitflow), travail en groupe en respectant les bests practices et conventions par pull-request uniquement (2 reviews minimums avant merge)
