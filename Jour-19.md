@@ -50,13 +50,28 @@
         - c'est quoi une règle métier?
         C'est la base des systèmes d'automatisation. Permet d'ajuster la réation a certaines actions selon certaines conditions. Exemple de règle métier:
             - Frais de port offert si le montant de la commande est supérieur a 50€
-            - Pas de publicité si l'utilisateur a souscrit a une offre premium
+            - Pas de publicité si l'utilisateur a souscrit a une offre premium<br><br>
         
+        Règle métiers:
+        - (si la solution implémentation directe dans discord est retenue) Le bot check si le message contenant l'embed est deja créé, si aucun message n'est présent, il l'envoie.
+        - (si la solution "alarme répétable est retenue"): Le bot envoie une notification toute les x minutes pour rappeler d'envoyer le formulaire.
+        <br>
+
+
         Processus existants :
         - Le coach se connecte a l'une des deux application qui régissent la gestion de l'émargement selon le type promo (NetYparéo ou SoWeSign).
         - Une fênetre de temps est généree permettant aux apprenants d'enregistrer leur signature afin d'attestant de leur présence au cours.
-        - Le coach veiller à ce que tout le monde ait bien signé. Si qu
+        - Le coach veiller à ce que tout le monde ait bien signé. Si quelqu'un  a omis de signer, il doit lui en faire la remarque. Pour cela il dispose de trois possibilités : 
+            - Le signaler oralement, ce qui est suffisant dans le cadre des formations présentielles.
+            - Utiliser la fonctionnalité intégrée a SWS ou NYP, ce qui n'est pas optimal. L'envoi de rappel se fait par mail, qui peut être loupé par l'apprenant.
+            - Envoyer un message privé via discord, ce qui n'est pas optimal au vu de la gargantuesque liste de personnes cotoyant le serveur.
     - [ ] Déterminer les contraintes légales et réglementaires
+        - prévoir les mentions légales
+        - cgu
+        
+        - rapport règlement intérieur Simplon
+        - cnil
+        - code pénal?
     - [ ] Intégrer les standards et normes applicables
     - [ ] Comprendre les politiques internes et les exigences spécifiques du client
 
