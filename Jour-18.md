@@ -29,5 +29,6 @@
         - eviter l'oubli de signature
         - stratégiqe : gain de temps /optimisation
         - diminuer le manque a gagner
-        operationel mettre en place /
+        - réduire la charge de travail administrative
+        
     - [x] Évaluer les contraintes et opportunités du projet
