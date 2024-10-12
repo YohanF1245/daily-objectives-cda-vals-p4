@@ -15,8 +15,34 @@
         - Comment gerer les canaux pour l'implementaion du bot? 
             - Case Coach: (Un canal général ou un canal dans chacune des promos, ou utilisation du bot vérouillée sur un canal spécial staff)
             - Case Apprenant: lancer la procédure de poll dans un chan deja existant ou crerr un chan spécial?
-        
+        - niveau d'automatisation du bot - est ce qu'il doit ce comporter comme une alarme de 
+        téléphone( rappel automatique programmé jusqu'a la désactivation pour la demi-journée)?
+        - autres besoin?
     - [ ] Préparer la partie générique du mail récapitulatif après rendez-vous
+    ```
+    Objet : Compte rendu de réunion du [Date]
+
+    Bonjour à tous,
+
+    Je vous remercie pour votre participation active lors de notre réunion qui s'est tenue le   [Date]. Voici les participants présents :
+
+    [Nom Participant 1]
+    [Nom Participant 2]
+    [Nom Participant 3]
+
+    Nous avons abordé les thèmes suivants :
+
+    [Thème 1]
+    [Thème 2]
+    [Thème 3]
+
+    Vous trouverez en pièce jointe le compte rendu détaillé de notre réunion.
+
+    N'hésitez pas à revenir vers moi si vous avez des questions ou des remarques.
+
+    Cordialement,
+    ```
+    
     - [ ] Collecter les exigences fonctionnelles et non fonctionnelles
     - [ ] Prioriser les besoins en fonction de leur importance
 - [ ] Identification des règles de gestion :
