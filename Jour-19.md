@@ -17,6 +17,7 @@
             - Case Apprenant: lancer la procédure de poll dans un chan deja existant ou crerr un chan spécial?
         - niveau d'automatisation du bot - est ce qu'il doit ce comporter comme une alarme de 
         téléphone( rappel automatique programmé jusqu'a la désactivation pour la demi-journée)?
+        -  est ce que dans la base de données liée aux bots, une fonction de gestion des plannings est prévue (pour savoir quel coach est avec quel groupe a quel moment)
         - autres besoin?
     - [ ] Préparer la partie générique du mail récapitulatif après rendez-vous
     ```
@@ -55,6 +56,7 @@
         Règle métiers:
         - (si la solution implémentation directe dans discord est retenue) Le bot check si le message contenant l'embed est deja créé, si aucun message n'est présent, il l'envoie.
         - (si la solution "alarme répétable est retenue"): Le bot envoie une notification toute les x minutes pour rappeler d'envoyer le formulaire.
+        - si l'apprenant 
         <br>
 
 
@@ -69,9 +71,10 @@
         - prévoir les mentions légales
         - cgu
         
+        Ne pas enfreindre les réglements généraux.
         - rapport règlement intérieur Simplon
         - cnil
         - code pénal?
-    - [ ] Intégrer les standards et normes applicables
+    - [ ] Intégrer les standards et normes applicables 
     - [ ] Comprendre les politiques internes et les exigences spécifiques du client
 
