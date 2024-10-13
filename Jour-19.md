@@ -11,6 +11,7 @@
             - fourir un moyen non intrusif pour les apprenants de signaler aux coach qu'ils ont ont oublié de lancer la procédure d'émargement.
             - Rien d'autre?
         - Penser  a gerer les rattrapages avec le bot? (ex une après-midi SWS est down, personne n'a pu signer on peut envoyer un lien de rattrapage directement avec le bot)
+        - Qui va utiliser le bot? Est-ce que le staff peut par exemple utiliser le bot pour envoyer une notif pour signaler qu'un apprenant n'a pas justifié une absence?
         - Conserver des traces d'utilisation (combien de fois le bot a été utilisé, quels apprenants sont )
         - Comment gerer les canaux pour l'implementaion du bot? 
             - Case Coach: (Un canal général ou un canal dans chacune des promos, ou utilisation du bot vérouillée sur un canal spécial staff)
