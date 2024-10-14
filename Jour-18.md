@@ -9,10 +9,14 @@
 - [x] Etudier les documents déjà réalisé par les groupes précédents (faire un état des lieux)
   - [x] Déterminer les problématiques
     - le rappel de la signature est peu intuitif
+    - l'outil "officiel" de gestion d'émargement ne communique pas avec discord
   - [x] Découper les problématiques en problèmes
     - le coach doit rechercher dans une longue liste de nombs pour rappeler un apprenant  a l'ordre
     - le coach peut oublier de lancer le code de la signature
+    - le code d'acces a la signature peut etre oublié/pas entendu
+    - pas d'acces a l'api soweswoft ...
   - [ ] Proposer une/des solutions théoriques à chaque problème
+    - 
 - [x] Analyser le contexte et les enjeux :
     - [x] Comprendre le secteur d'activité du client
       - formations dans le domaine du numérique
