@@ -4,7 +4,7 @@
 
 ### Introduction à PostgreSQL et DCL
 
-- [ ] Découverte de PostgreSQL
+- [x] Découverte de PostgreSQL
   - [x] Identifier les différences entre MySQL et PostgreSQL
     OLAP VS OLTP
     online transaction et analytic processing
