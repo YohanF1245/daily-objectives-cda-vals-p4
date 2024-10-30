@@ -33,7 +33,7 @@
     - postgre: grosse application d'entreprise qui va traiter beaucoup de données et avoir des plus gros besoin en sécurité.
     - a noter: qui peut le plus peut le moins, postgre peut etre utilisé dans n'importe quel projet là ou les limitations de mysql l'empechent d'etre utilisé partout.
 
-- [ ] Installation et Configuration
+- [x] Installation et Configuration
   - [ ] Installation de PostgreSQL sur la machine
   - [ ] Installation de pgAdmin 4
   - [ ] Installation de pgcli
