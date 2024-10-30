@@ -34,7 +34,7 @@
     - a noter: qui peut le plus peut le moins, postgre peut etre utilisé dans n'importe quel projet là ou les limitations de mysql l'empechent d'etre utilisé partout.
 
 - [x] Installation et Configuration
-  - [ ] Installation de PostgreSQL sur la machine
+  - [x] Installation de PostgreSQL sur la machine
   - [ ] Installation de pgAdmin 4
   - [ ] Installation de pgcli
   - [ ] Configuration initiale
