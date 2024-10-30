@@ -6,9 +6,30 @@
 
 - [ ] Découverte de PostgreSQL
   - [ ] Identifier les différences entre MySQL et PostgreSQL
-  - [ ] Savoir Expliquer les avantages de PostgreSQL
+    OLAP VS OLTP
+    online transaction et analytic processing
+    OLTP permet d'interragir avec des entrées précises (expemle transfert d'argent d'un compte a un compte b)
+    OLAP interragi avec un grand nombre de donnes (voire toute les entrées) pour les analyser.
+    Postgre est plus adapté pour l'OLTP
+    Les deux supportent les types de données relationnels, mais postgresql supporte le type de données orienté objet.
+    Postgre permet de stocker des objets, des arrays, etc.
+    Postgre permet aux utilisateurs de créer leurs plugin en C.
+    postgre est mieux pour la sécurité
+    - transport level encryption : securise les communication client-server avec ssl/tls.
+    - data-at-rest-protection: chiffre les données stockées pour se prémunir des vols de données physique.
+    - data-in-use encrytion: sécurisation des données en cours d'utilisation interne (dans la mémoire)
+    - rls row-level security: permet d'éditer des règles afin de permettre l'accès a certaines lignes pour un groupe d'utilisateur
+    - mysql single-threaded postgre mylti-threaded (mvcc)
+    en résumé:
+    postgre:
+    -plus flexible
+    - plus customizable
+    - plus sécurisé
+    mysql:
+    - plus facile et rapide a utiliser
+    - moins gourmand en ressource matérielle
   - [ ] Savoir Choisir les cas d'usage adaptés à PostgreSQL
-
+    -
 - [ ] Installation et Configuration
   - [ ] Installation de PostgreSQL sur la machine
   - [ ] Installation de pgAdmin 4
