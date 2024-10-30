@@ -35,7 +35,7 @@
 
 - [x] Installation et Configuration
   - [x] Installation de PostgreSQL sur la machine
-  - [ ] Installation de pgAdmin 4
+  - [x] Installation de pgAdmin 4
   - [ ] Installation de pgcli
   - [ ] Configuration initiale
     - [ ] Ports
