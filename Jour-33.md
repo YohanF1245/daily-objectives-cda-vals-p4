@@ -29,7 +29,10 @@
     - plus facile et rapide a utiliser
     - moins gourmand en ressource matérielle
   - [ ] Savoir Choisir les cas d'usage adaptés à PostgreSQL
-    -
+    - mysql: petite application web (projet amateur)
+    - postgre: grosse application d'entreprise qui va traiter beaucoup de données et avoir des plus gros besoin en sécurité.
+    - a noter: qui peut le plus peut le moins, postgre peut etre utilisé dans n'importe quel projet là ou les limitations de mysql l'empechent d'etre utilisé partout.
+
 - [ ] Installation et Configuration
   - [ ] Installation de PostgreSQL sur la machine
   - [ ] Installation de pgAdmin 4
