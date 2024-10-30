@@ -36,12 +36,12 @@
 - [x] Installation et Configuration
   - [x] Installation de PostgreSQL sur la machine
   - [x] Installation de pgAdmin 4
-  - [ ] Installation de pgcli
-  - [ ] Configuration initiale
+  - [x] Installation de pgcli
+  - [x] Configuration initiale
     - [ ] Ports
-    - [ ] Mot de passe postgres
-    - [ ] Création du premier utilisateur
-  - [ ] Test de la connexion
+    - [x] Mot de passe postgres
+    - [x] Création du premier utilisateur
+  - [x] Test de la connexion
 
 - [ ] Data Control Language (DCL)
   - [ ] Gestion des utilisateurs
