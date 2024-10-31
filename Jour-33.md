@@ -6,6 +6,7 @@
 
 - [x] Découverte de PostgreSQL
   - [x] Identifier les différences entre MySQL et PostgreSQL
+    DCL-DDL-DML-DQL
     OLAP VS OLTP
     online transaction et analytic processing
     OLTP permet d'interragir avec des entrées précises (expemle transfert d'argent d'un compte a un compte b)
