@@ -4,7 +4,7 @@
 
 
 - [ ] Préparer l'organisation et la planification agile (Jira)
-  - [ ] Répartition des rôles / Responsabilités
+  - [x] Répartition des rôles / Responsabilités
   - [ ] Préparer le Jira du projet fil rouge
   - [ ] Déterminer l'organisation et la répartition des rituels
 - [ ] Utiliser les règles de gestion pour guider la collecte des exigences
