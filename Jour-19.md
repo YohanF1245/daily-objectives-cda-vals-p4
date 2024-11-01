@@ -38,7 +38,7 @@
     [Thème 2]
     [Thème 3]
 
-    Vous trouverez en pièce jointe le compte rendu détaillé de notre réunion.
+    Vous trouverez en pièce jointe le compte rendu détaillé de notre réunion.cdcd
 
     N'hésitez pas à revenir vers moi si vous avez des questions ou des remarques.
 
