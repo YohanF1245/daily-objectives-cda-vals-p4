@@ -19,9 +19,9 @@
     - [x] Savoir utiliser les opérateurs de comparaison
     - [x] Savoir utiliser les opérateurs logiques
     - [x] Savoir utiliser BETWEEN
-    - [ ] Savoir utiliser IN
+    - [x] Savoir utiliser IN
     - [x] Savoir utiliser LIKE et ses wildcards
-    - [ ] Savoir gérer les NULL
+    - [x] Savoir gérer les NULL
 
 - [ ] Organisation des résultats
   - [ ] Savoir trier avec ORDER BY
