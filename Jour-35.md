@@ -25,7 +25,7 @@
 
 - [ ] Organisation des résultats
   - [ ] Savoir trier avec ORDER BY
-    - [ ] ASC / DESC
+    - [x] ASC / DESC
     - [ ] Tri multi-colonnes
   
   - [ ] Savoir utiliser DISTINCT
