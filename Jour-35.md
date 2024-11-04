@@ -14,13 +14,13 @@
   - [x] Savoir utiliser la sélection complète (*)
     SELECT * FROM nom_table
 
-- [ ] Filtrage des données
-  - [ ] Savoir utiliser la clause WHERE
-    - [ ] Savoir utiliser les opérateurs de comparaison
-    - [ ] Savoir utiliser les opérateurs logiques
-    - [ ] Savoir utiliser BETWEEN
+- [x] Filtrage des données
+  - [x] Savoir utiliser la clause WHERE
+    - [x] Savoir utiliser les opérateurs de comparaison
+    - [x] Savoir utiliser les opérateurs logiques
+    - [x] Savoir utiliser BETWEEN
     - [ ] Savoir utiliser IN
-    - [ ] Savoir utiliser LIKE et ses wildcards
+    - [x] Savoir utiliser LIKE et ses wildcards
     - [ ] Savoir gérer les NULL
 
 - [ ] Organisation des résultats
