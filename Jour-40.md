@@ -36,15 +36,15 @@ niveaux (correction):
     - [x] Savoir documenter les propriétés
   
   - [ ] Les associations
-    - [ ] Savoir définir les associations <br>
+    - [x] Savoir définir les associations <br>
     verbe a l'infinitif lisible dans les deux sens<br>
 
-    
+
     Une association est un lien sémantique entre plusieurs entités
-    - [ ] Savoir nommer les associations
+    - [x] Savoir nommer les associations
     Une association est souvent nommée par un verbe qui exprime le sens du lien entre les
 entités.
-    - [ ] Savoir identifier les cardinalités
+    - [x] Savoir identifier les cardinalités
      nombres minimum et maximum de participations de
 chaque occurrence d’entité à l’association.
 
