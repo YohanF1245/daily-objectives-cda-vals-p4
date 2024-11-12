@@ -18,8 +18,8 @@ Le niveau physique, il s'agit du MPD (Modèle Physique des Données)
 - [x] Les concepts de base du MCD
   - [x] Les entités
     - [x] Savoir définir les entités<br>l'entité: elle regroupe l'information statique et durable.
-    - [x] Savoir nommer les entités<br>Une entité est représentée par un nom commun écrit en majuscules et au sungulier.
-    - [ ] Savoir identifier les occurrences
+    - [x] Savoir nommer les entités<br>Une entité est représentée par un nom commun écrit en majuscules et au singulier.
+    - [x] Savoir identifier les occurrences<br>Une occurence est une ligne dans une table. Par exemple un utilisateur est une occurence de la table UTILISATEUR.
   
   - [ ] Le dictionnaire de données
     - [ ] Savoir créer un dictionnaire de données
