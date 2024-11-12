@@ -12,13 +12,20 @@
   - [x] Identifier les différents niveaux de MERISE<br>
   Le niveau conceptuel, il s'agit du MCD (Modèle Conceptuel des Données)<br>
 Le niveau logique, il s'agit du MLD (Modèle Logique des Données)<br>
-Le niveau physique, il s'agit du MPD (Modèle Physique des Données)
+Le niveau physique, il s'agit du MPD (Modèle Physique des Données)<br>*
+niveaux (correction):
+|                | données | traitement | communication |
+| -------------- | ------- | ---------- | ------------- |
+| conceptuel     | MCD     | MCT        | MCC           |
+| organisationel | MLD     | MOT        |               |
+| technique      | MPD     | MOpT       |               |
+
   - [ ] Comprendre le vocabulaire de base
 
 - [x] Les concepts de base du MCD
   - [x] Les entités
     - [x] Savoir définir les entités<br>l'entité: elle regroupe l'information statique et durable.
-    - [x] Savoir nommer les entités<br>Une entité est représentée par un nom commun écrit en majuscules et au singulier.
+    - [x] Savoir nommer les entités<br>Une entité est représentée par un nom commun écrit en minuscules et au pluriel.
     - [x] Savoir identifier les occurrences<br>Une occurence est une ligne dans une table. Par exemple un utilisateur est une occurence de la table UTILISATEUR.
   
   - [x] Le dictionnaire de données
@@ -29,7 +36,10 @@ Le niveau physique, il s'agit du MPD (Modèle Physique des Données)
     - [x] Savoir documenter les propriétés
   
   - [ ] Les associations
-    - [ ] Savoir définir les associations
+    - [ ] Savoir définir les associations <br>
+    verbe a l'infinitif lisible dans les deux sens<br>
+
+    
     Une association est un lien sémantique entre plusieurs entités
     - [ ] Savoir nommer les associations
     Une association est souvent nommée par un verbe qui exprime le sens du lien entre les
