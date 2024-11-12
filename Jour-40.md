@@ -21,16 +21,22 @@ Le niveau physique, il s'agit du MPD (Modèle Physique des Données)
     - [x] Savoir nommer les entités<br>Une entité est représentée par un nom commun écrit en majuscules et au singulier.
     - [x] Savoir identifier les occurrences<br>Une occurence est une ligne dans une table. Par exemple un utilisateur est une occurence de la table UTILISATEUR.
   
-  - [ ] Le dictionnaire de données
-    - [ ] Savoir créer un dictionnaire de données
+  - [x] Le dictionnaire de données
+    - [x] Savoir créer un dictionnaire de données <br>
+    | nom du champ | type de données | description | contraintes (pas primary key) | usage et contexte d'utilisation |
     - [ ] Savoir définir les propriétés
     - [ ] Savoir typer les propriétés
     - [ ] Savoir documenter les propriétés
   
   - [ ] Les associations
     - [ ] Savoir définir les associations
+    Une association est un lien sémantique entre plusieurs entités
     - [ ] Savoir nommer les associations
+    Une association est souvent nommée par un verbe qui exprime le sens du lien entre les
+entités.
     - [ ] Savoir identifier les cardinalités
+     nombres minimum et maximum de participations de
+chaque occurrence d’entité à l’association.
 
 - [ ] Les règles de gestion
   - [ ] Savoir extraire les règles d'un cahier des charges
