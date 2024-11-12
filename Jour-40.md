@@ -24,9 +24,9 @@ Le niveau physique, il s'agit du MPD (Modèle Physique des Données)
   - [x] Le dictionnaire de données
     - [x] Savoir créer un dictionnaire de données <br>
     | nom du champ | type de données | description | contraintes (pas primary key) | usage et contexte d'utilisation |
-    - [ ] Savoir définir les propriétés
-    - [ ] Savoir typer les propriétés
-    - [ ] Savoir documenter les propriétés
+    - [x] Savoir définir les propriétés
+    - [x] Savoir typer les propriétés
+    - [x] Savoir documenter les propriétés
   
   - [ ] Les associations
     - [ ] Savoir définir les associations
