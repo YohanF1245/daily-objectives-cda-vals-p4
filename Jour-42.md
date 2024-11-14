@@ -10,7 +10,7 @@
   - [x] Savoir valider les cardinalités
 
 - [x] Les différents types de contraintes
-  - [ ] Savoir définir une contrainte d'intégrité
+  - [x] Savoir définir une contrainte d'intégrité
   - [ ] Savoir différencier les types de contraintes :
     - [ ] Contraintes d'intégrité fonctionnelle
     - [ ] Contraintes d'intégrité physique
