@@ -15,12 +15,15 @@
     - [x] Contraintes d'intégrité fonctionnelle
     - [x] Contraintes d'intégrité physique
 
-- [ ] Les contraintes d'intégrité fonctionnelle (CIF)
-  - [ ] Savoir identifier une CIF
-  - [ ] Savoir représenter une CIF sur le MCD
-  - [ ] Savoir valider une CIF
+- [x] Les contraintes d'intégrité fonctionnelle (CIF)
+  - [x] Savoir identifier une CIF
+  - [x] Savoir représenter une CIF sur le MCD
+  - [x] Savoir valider une CIF
 
-- [ ] Les contraintes d'intégrité physique
-  - [ ] Savoir identifier une contrainte physique
-  - [ ] Savoir représenter une contrainte physique
-  - [ ] Savoir valider une contrainte physique
+- [x] Les contraintes d'intégrité physique
+  - [x] Savoir identifier une contrainte physique
+  - [x] Savoir représenter une contrainte physique
+  - [x] Savoir valider une contrainte physique
+
+  - respect des cif : Si les entités ne présentent pas d'incohérences qui entrainerait un dysfonctionnement au niveau des attributs ou cardinalité les contraintes d'integrité fonctionnelles sont respectées.
+  - Cip : contraintes d'intégrité physiques, pour s'assurer que les attributs sont cohérent avec leur utilisation ( un champ mot de pass ne peut pas être NULL)
