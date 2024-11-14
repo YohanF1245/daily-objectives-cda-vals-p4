@@ -12,7 +12,7 @@
 - [x] Les différents types de contraintes
   - [x] Savoir définir une contrainte d'intégrité
   - [x] Savoir différencier les types de contraintes :
-    - [ ] Contraintes d'intégrité fonctionnelle
+    - [x] Contraintes d'intégrité fonctionnelle
     - [ ] Contraintes d'intégrité physique
 
 - [ ] Les contraintes d'intégrité fonctionnelle (CIF)
