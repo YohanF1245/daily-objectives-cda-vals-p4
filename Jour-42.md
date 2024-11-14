@@ -6,7 +6,7 @@
 
 - [x] Les cardinalités
   - [x] Savoir lire les cardinalités
-  - [ ] Savoir écrire les cardinalités
+  - [x] Savoir écrire les cardinalités
   - [ ] Savoir valider les cardinalités
 
 - [ ] Les différents types de contraintes
