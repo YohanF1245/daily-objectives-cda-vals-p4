@@ -5,7 +5,7 @@
 ### MERISE - Les cardinalités et les contraintes
 
 - [x] Les cardinalités
-  - [ ] Savoir lire les cardinalités
+  - [x] Savoir lire les cardinalités
   - [ ] Savoir écrire les cardinalités
   - [ ] Savoir valider les cardinalités
 
