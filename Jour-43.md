@@ -10,7 +10,11 @@
 
 - [x]Les formes normales
   - [x] Comprendre la 1ère forme normale (1FN)
+    - atomicité.
+    - 
   - [x] Comprendre la 2ème forme normale (2FN)
+    - d'abord 1NF.
+    - un attribut non identifiant ne depend pas d'une partie de l'identifiant mais de tout l'identifiant
   - [x] Comprendre la 3ème forme normale (3FN)
 
 - [x] Les dépendances fonctionnelles
