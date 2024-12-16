@@ -4,10 +4,10 @@
 
 ### UML - Diagrammes de cas d'utilisation et diagramme de classes
 
-- [ ] Faire les objectifs de la veille
+- [x] Faire les objectifs de la veille
 
-- [ ] Découverte avancé des cas d'utilisation (les relations)
-  - [ ] Comprendre la notion d'association
+- [x] Découverte avancé des cas d'utilisation (les relations)
+  - [x] Comprendre la notion d'association
   - [ ] Comprendre et représenter le terme d'inclusion
   - [ ] Comprendre et représenter le terme d'extension
   - [ ] Comprendre et représenter la généralisation

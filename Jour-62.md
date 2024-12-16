@@ -22,6 +22,11 @@
   - [ ] Trouver des outils cloud
   
 - [ ] Initiation au diagramme de cas d'utilisation
+
+definir les acteurs
+definir les actions
+faire les liens
+generaliser
   - [ ] Comprendre les objectifs (d'un point de vue client / d'un point de vue développeur)
   - [ ] Comment représenter un système d'information complet
   - [ ] Etudier les concepts clés du diagramme de cas d'utilisation
