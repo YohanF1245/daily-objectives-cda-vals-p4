@@ -13,7 +13,7 @@
   - [x] Comprendre et représenter la généralisation
   
 - [x] Découverte du diagramme de classes
-  - [ ] Etude générale du diagramme de classes
+  - [x] Etude générale du diagramme de classes
     - [ ] Objectifs
 	- [ ] Dans quels cas est-il utilisé ?
   - [ ] Etudier la représentation d'une classes
