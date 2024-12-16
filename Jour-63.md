@@ -14,7 +14,7 @@
   
 - [x] Découverte du diagramme de classes
   - [x] Etude générale du diagramme de classes
-    - [ ] Objectifs
+    - [x] Objectifs
 	- [ ] Dans quels cas est-il utilisé ?
   - [ ] Etudier la représentation d'une classes
     - [ ] Son formalisme
