@@ -9,7 +9,7 @@
 - [x] Découverte avancé des cas d'utilisation (les relations)
   - [x] Comprendre la notion d'association
   - [x] Comprendre et représenter le terme d'inclusion
-  - [ ] Comprendre et représenter le terme d'extension
+  - [x] Comprendre et représenter le terme d'extension
   - [ ] Comprendre et représenter la généralisation
   
 - [ ] Découverte du diagramme de classes
