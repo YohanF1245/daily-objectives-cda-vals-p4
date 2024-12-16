@@ -10,7 +10,7 @@
   - [x] Comprendre la notion d'association
   - [x] Comprendre et représenter le terme d'inclusion
   - [x] Comprendre et représenter le terme d'extension
-  - [ ] Comprendre et représenter la généralisation
+  - [x] Comprendre et représenter la généralisation
   
 - [ ] Découverte du diagramme de classes
   - [ ] Etude générale du diagramme de classes
