@@ -12,7 +12,7 @@
   - [x] Comprendre et représenter le terme d'extension
   - [x] Comprendre et représenter la généralisation
   
-- [ ] Découverte du diagramme de classes
+- [x] Découverte du diagramme de classes
   - [ ] Etude générale du diagramme de classes
     - [ ] Objectifs
 	- [ ] Dans quels cas est-il utilisé ?
