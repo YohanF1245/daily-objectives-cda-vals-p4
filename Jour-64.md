@@ -7,7 +7,8 @@
 - [ ] Finir les objectifs de la veille
 
 - [ ] Approfondir les connaissances sur le diagramme de classes 
-  - [ ] Comprendre la notion d'association
+  - [ ] Comprendre la notion d'association<br>
+  lien ou relation logique/physique entre deux éléments.
   - [ ] Etudier les différentes multiplicités et leur signification
   - [ ] Comprendre l'agrégation
   - [ ] Comprendre la composition
